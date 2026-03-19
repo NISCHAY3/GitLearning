@@ -1,0 +1,7 @@
+ls for listing file 
+ls -a for showing hidden files also (.git)
+
+git status - what changes have been made which are not tracked 
+
+git add . -> put all the files in staging area
+you can also add individually by adding name 
